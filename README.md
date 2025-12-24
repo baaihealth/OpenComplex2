@@ -1,5 +1,5 @@
 ![header](img/logo.png)
-# Will release soon, please stay tune.
+# Will be released soon. Please stay tuned.
 # OpenComplex2
 OpenComplex2 ([OC2](https://www.biorxiv.org/content/10.1101/2025.05.01.651643v2)) is a generative foundation model that bridges static structure prediction and dynamic ensemble modeling of biomolecular systems. Unlike traditional structure prediction methods that focus solely on a single conformation, OC2 can efficiently sample thermodynamically relevant conformational ensembles, providing insights into molecular function that static structures alone cannot capture.
 
